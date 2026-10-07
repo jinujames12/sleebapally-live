@@ -16,7 +16,7 @@ window.SITE_DATA = {
 
   /* ---------- People page: Office Bearers ---------- */
   officeBearers: [
-    { name: "Fr. K A Cherian", role: "Vicar", place: "", phone: "+91 94474 55041" },
+    { name: "Fr. ", role: "Vicar", place: "", phone: "+91 " },
     { name: "To be updated", role: "Trustee", place: "", phone: "" },
     { name: "Paul Thomas", role: "Secretary", place: "Pallickal", phone: "+91 94950 85926" },
   ],
