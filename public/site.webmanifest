@@ -1,0 +1,11 @@
+{
+  "name": "Mar Severios Sleeba Orthodox Valiya Pally",
+  "short_name": "Sleeba Pally",
+  "icons": [
+    { "src": "/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#7a1f2b",
+  "background_color": "#fbf7f0",
+  "display": "browser"
+}

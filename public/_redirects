@@ -1,0 +1,6 @@
+# Redirects from old website addresses to new pages.
+# One rule per line:   /old-address   /new-page   301
+# Examples (remove the # to turn one on):
+# /service-timings   /services   301
+# /about-us          /about      301
+# /contact-us        /contact    301
